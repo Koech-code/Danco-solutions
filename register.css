@@ -57,42 +57,26 @@ body{
     cursor: pointer;
     color: black;
   }
+
 #login-container{
-      background-color: #B87171;
-      height: 80vh;
-      margin: 5% 25% 50% 25%;
-      border-radius: 40px;
-  }
+    background-color: #B87171;
+    height: 80vh;
+    margin: 5% 25% 50% 25%;
+    border-radius: 40px;
+}
 #login-container >p{
-   font-size: 40px;
-   padding: 10% 0% 0% 40%;
+ font-size: 40px;
+ padding: 10% 0% 0% 40%;
 }
 .text-box >p{
-    padding-left: 40%;
-    font-size: 20px;
-    font-weight: 600;
+  padding-left: 40%;
+  font-size: 20px;
+  font-weight: 600;
 }
 .text-box >input{
-    padding-left: 40%;
-    font-size: 20px;
-    width: 90px;
-    margin-left: 20%;
-    border-radius: 10px;
-}
-::placeholder{
-    padding-right: 80%;
-    align-items: center;
-    position: absolute;
-}
-.btn{
-    width: 80px;
-    margin-left: 40%;
-    margin-top: 8%;
-}
-form{
-  padding-left: 20%;
-  padding-top: 40%;
-}
-form ,label ,input{
-  font-size: 30px;
+  padding-left: 40%;
+  font-size: 20px;
+  width: 90px;
+  margin-left: 20%;
+  border-radius: 10px;
 }
